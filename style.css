@@ -1,0 +1,66 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    font-family: 'Crimson Text', serif;
+}
+
+body {
+	background-color: rgb(198, 224, 219);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.container {
+	width: 80%;
+	max-width: 1000px;
+	min-height: 100px;
+	background-color: rgb(204, 222, 230);
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: grid;
+	grid-template-columns: 2fr 4fr;
+}
+
+.left {
+	position: initial;
+	background-color: rgb(237, 217, 244);
+	padding: 20px;
+
+}
+
+.right {
+	position: initial;
+	background-color: rgb(127, 155, 164);
+	padding: 20px;
+
+}
+
+ .Contact, .Skills, .Language, .Hobbies, .title,
+.Summary, .Experience, .Education, .project {
+	margin-bottom: 30px;
+}
+
+.h2 {
+	background-color: rgb(186, 199, 207);
+}
+
+.image{
+	margin-bottom:30px;
+	border-radius: 50%;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+.image > img{
+	border-radius:50%;
+	height:200px;
+	width:200px;
+
+
+}
