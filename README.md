@@ -8,6 +8,7 @@ A Digital Resume created using HTML and CSS
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Usage](#usage)
+- [Lisence](#lisence)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 - [Connect with me](### Connect with Me)
@@ -34,6 +35,9 @@ This internship is provided by [CyberDude Networks Pvt. Ltd.](https://youtube.co
 
 ## Usage
 -You can access it through the following link: [view site.](https://gayathrihg.github.io/Resume/)
+
+## License
+[⚖ MIT](./LICENSE)
 
 ## Contributing
 - To contribute or to suggest improvements to be done you can connect with me.
