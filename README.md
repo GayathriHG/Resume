@@ -10,7 +10,7 @@ A Digital Resume created using HTML and CSS
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
-- [Connect with me](### Connect with Me)
+- [Connect with me](#Connect-with-Me)
 
 ## Description
 
